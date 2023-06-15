@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
-<h3 align="center">A passionate student and software engineer from Moscow</h3>
+<h3 align="center">Student and Software Engineer from Charlotte</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paul-mp&label=Profile%20views&color=0e75b6&style=flat" alt="paul-mp" /> </p>
 
