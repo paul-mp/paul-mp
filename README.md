@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pavel.maslov01@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zg6ehjjtSK6JBadyyO3qhcwpV0Zv61sK/view?usp=sharing](https://drive.google.com/file/d/1zg6ehjjtSK6JBadyyO3qhcwpV0Zv61sK/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JXJ3hVAZGzwTByxVuevMMVh1gEdNnVTa/view?usp=sharing](https://drive.google.com/file/d/1JXJ3hVAZGzwTByxVuevMMVh1gEdNnVTa/view?usp=sharing)
 
 <p align="left">
 </p>
