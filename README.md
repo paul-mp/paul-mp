@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paul-mp&label=Profile%20views&color=0e75b6&style=flat" alt="paul-mp" /> </p>
 
-- 🌱 I’m currently learning **React, WebDriverIo, GCP, Python and MUI**
+- 🌱 I’m currently learning **React, WebDriverIo, GCP, Python, SQLAlchemy, AWS, and MUI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/paul-mp](https://github.com/paul-mp)
 
