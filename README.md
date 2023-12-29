@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pavel.maslov01@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JXJ3hVAZGzwTByxVuevMMVh1gEdNnVTa/view?usp=sharing](https://drive.google.com/file/d/1JXJ3hVAZGzwTByxVuevMMVh1gEdNnVTa/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18agUSBppfGtP4Mst0DFjgd5bGsPfA74M/view?usp=sharing](https://drive.google.com/file/d/18agUSBppfGtP4Mst0DFjgd5bGsPfA74M/view?usp=sharing)
 
 <p align="left">
 </p>
