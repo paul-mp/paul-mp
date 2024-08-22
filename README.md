@@ -17,7 +17,6 @@
 
 - 🌱 My goals are **To be a successful Software Engineer who provides change in the tech field**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
