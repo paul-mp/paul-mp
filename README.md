@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavel (Paul) Maslov</h1>
-<h3 align="center">An Associate Software Engineer at Lowe's and Student at UNCC from Moscow, Russia</h3>
+<h3 align="center">An Incoming Associate Software Engineer and Student at UNCC from Moscow, Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paul-mp&label=Profile%20views&color=0e75b6&style=flat" alt="paul-mp" /> </p>
 
